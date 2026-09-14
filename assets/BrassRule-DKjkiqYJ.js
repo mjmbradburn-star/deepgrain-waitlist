@@ -1,0 +1,1 @@
+import{r as e,j as t,c as o}from"./index-BuiVRTBm.js";const p=e.forwardRef(({className:s,width:a="60px"},r)=>t.jsx("div",{ref:r,className:o("h-px bg-brass",s),style:{width:a},"aria-hidden":"true"}));p.displayName="BrassRule";export{p as B};

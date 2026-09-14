@@ -1,0 +1,1 @@
+import{r as a,j as o,c as t}from"./index-BuiVRTBm.js";const p=a.forwardRef(({children:r,className:s},e)=>o.jsx("p",{ref:e,className:t("eyebrow",s),children:r}));p.displayName="Eyebrow";export{p as E};
